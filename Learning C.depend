@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:h:\cs content degree\1.1\codeblockslearningc\learning c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616684793 source:h:\cs content degree\1.1\codeblockslearningc\learning c\sample.c
+	<stdio.h>
+
+1616684722 source:h:\cs content degree\1.1\codeblockslearningc\learning c\sample2.c
+	<stdio.h>
+
